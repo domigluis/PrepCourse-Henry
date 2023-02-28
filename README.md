@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del Modulo2 Henry
+
+Esta es una prueba de como clonar un repositorio remoto a mi computadora
